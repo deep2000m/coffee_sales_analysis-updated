@@ -14,6 +14,8 @@ Loyalty Card Analysis
 
 ![Image](https://github.com/user-attachments/assets/7cc32b67-f780-4be5-a25c-2114702bd3ba)
 
+![Image](https://github.com/user-attachments/assets/74631763-74bd-472e-863d-22a781204999)
+
 
 
 **🔍 Key Insights**
