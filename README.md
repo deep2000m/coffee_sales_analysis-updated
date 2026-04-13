@@ -12,6 +12,10 @@ Regional Analysis
 Product Analysis
 Loyalty Card Analysis
 
+![Image](https://github.com/user-attachments/assets/7cc32b67-f780-4be5-a25c-2114702bd3ba)
+
+
+
 **🔍 Key Insights**
 - 
 **💰 Profitability Gap**
